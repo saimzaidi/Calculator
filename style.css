@@ -1,0 +1,41 @@
+.main{
+    border: 3px solid black;
+    height: 330px;
+    width: 300px;
+    margin: 60px auto;
+    box-shadow: 3px 3px 3px 3px grey;
+    }
+    
+    #inp{
+    width: 95%;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 3px;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    }
+    
+    button{
+    width: 60px;
+    height: 40px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px 2px grey;
+    font-size: 20px;
+    font-weight: bold;
+    user-select: none;
+    }
+    
+    .cc button{
+    width: 95%;
+    font-weight: lighter;
+    }
+    
+    button:active{
+        background-color: brown;
+    }
+    
+    .cc button:active{
+    background-color:red;
+    } 
+    
